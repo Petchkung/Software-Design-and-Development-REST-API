@@ -736,7 +736,8 @@ python app.py   # กรณีบน macOS ใช้ python3 app.py
    - Method: GET
    - 
     ### บันทึกผลการทดลอง
-  ![Uploading image.png…]()
+  ![image](https://github.com/user-attachments/assets/e8f64650-ac57-47bd-b5ea-8dddbf22e9a2)
+
 
 
    c. ดึงข้อมูลตาม ID (GET):
